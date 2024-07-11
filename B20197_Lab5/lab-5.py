@@ -1,7 +1,6 @@
 """
-Author : Amit Maindola
-Branch : Computer Science and Engineering
-Phone : +91 7470985613
+Author : Gaurav Kumar
+Phone : +91 8529143452
 """
 
 import numpy as np
